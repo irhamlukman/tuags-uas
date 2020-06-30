@@ -40,3 +40,8 @@ $kata2 = trim(fgets(STDIN));
 $hasil = binToNrz($kata2);
 
 echo "Hasil => " . $hasil;
+
+
+
+#Nama : Muchammad Ircham Lukman Diansyah
+#NIM  : 1814321001
